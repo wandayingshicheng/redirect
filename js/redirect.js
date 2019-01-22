@@ -1,2 +1,2 @@
-var newURL="woolk.nm9e.cn";
-var heziURL="vrgaeq.41im.cn";
+var newURL="tzzf.eryuld.cn";
+var heziURL="dszf.cvghkr.cn";
